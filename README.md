@@ -43,7 +43,7 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 * [ ] Push your first commit: `git commit --allow-empty -m "first commit" && git push`
 * [ ] Check to see that Codegrade has accepted your git submission.
 
-### Task 3: Project Requirements
+### Task 3: Project Requirement s
 
  Your finished project must include all of the following requirements.
 
