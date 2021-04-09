@@ -39,7 +39,7 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 
 ### Task 2: CodeGrade Setup
 * [ ] Open the assignment in Canvas and following along with the attached document [here.](https://www.notion.so/lambdaschool/Submitting-an-assignment-via-Code-Grade-A-Step-by-Step-Walkthrough-07bd65f5f8364e709ecb5064735ce374).
-* [ ] Follow instructions to set up Codegrade's Webhook and Deploy Key, making sure your deployment is set to your `<firstName-lastName>`.
+* [ ] Follow instructions to set up Codegrade's Webhook and Deploy Key, making sure your deployment is set to your `<firstName-lastName>` .
 * [ ] Push your first commit: `git commit --allow-empty -m "first commit" && git push`
 * [ ] Check to see that Codegrade has accepted your git submission.
 
